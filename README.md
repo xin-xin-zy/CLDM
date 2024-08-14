@@ -11,4 +11,6 @@
   ## Install  python required packages
   pip install -r requirements.txt
 
+# Run
+python train.py
   
