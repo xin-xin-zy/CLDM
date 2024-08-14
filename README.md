@@ -3,7 +3,11 @@
 
 
 # Installation
+  ## Create your own conda environment
   conda create -n CLDM python=3.10
   conda activate CLDM
 
-Install Pytorch == 2.0.0(depends on your NVIDIA driver and you can see your compatible CUDA version at the right hand corner in nvidia-smi)
+  ## Install  python required packages
+  pip install -r requirements.txt
+
+  
